@@ -98,6 +98,6 @@ jobs:
 
         env:
 
-          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+          CODECOV_TOKEN: 2d987b3b-fdca-4a91-b19f-0fb40e6b4e4d
 
         shell: bash
